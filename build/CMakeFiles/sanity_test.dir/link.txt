@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sanity_test.dir/tests/sanity_test.cpp.o -o sanity_test  /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 

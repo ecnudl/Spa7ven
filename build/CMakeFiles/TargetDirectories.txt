@@ -1,0 +1,4 @@
+/home/admin123/dl/Spa7ven/build/CMakeFiles/sanity_test.dir
+/home/admin123/dl/Spa7ven/build/CMakeFiles/test.dir
+/home/admin123/dl/Spa7ven/build/CMakeFiles/edit_cache.dir
+/home/admin123/dl/Spa7ven/build/CMakeFiles/rebuild_cache.dir
